@@ -1,0 +1,42 @@
+
+.jumbotron {
+  display:block;
+    height: 800px;
+    background: url(../img/front.jpg) no-repeat;
+    background-size: cover;
+  margin-bottom:0px !important;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+
+
+.informations{
+ background-color:#efefef;
+ border-bottom:1px solid #dbdbdb;
+}
+
+.informations h2{
+ color:#393c3d;
+ font-size:24px
+}
+
+.informations p{
+ font-size:15px;
+ margin-bottom:13px;
+}

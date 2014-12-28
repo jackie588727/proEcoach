@@ -1,0 +1,41 @@
+.navbar{
+    margin-bottom: 0px !important;
+
+}
+.navbar a {
+    color: #5a5a5a;
+    font-size: 12px;
+    font-weight: bold;
+    padding-right: 10px;
+    text-transform: uppercase;
+
+}
+.navbar-brand img{
+    position: absolute;
+    margin-top: -20px;
+}
+
+.ul{
+    float:right;
+}
+.ul li {
+    display: inline;
+}
+
+.fb-like{
+    margin-top: 5%;
+}
+
+.footer {
+    background-color: #f7f7f7;
+}
+
+.footer h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer a {
+    color: #00b0ff;
+}

@@ -1,0 +1,11 @@
+.login-form{
+    margin: 25% auto 25% auto;
+    width: 50%;
+
+}
+
+#fadenotification{
+    position: absolute;
+    margin:3% auto 0px auto;
+    width: 50%;
+}

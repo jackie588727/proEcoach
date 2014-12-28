@@ -1,0 +1,45 @@
+.body{
+    background-color: #FAF9F9;
+
+}
+.coachpanel{
+    margin-left:5%;
+    margin-right:5%;
+}
+.row{
+    margin-top:3%;
+}
+.profilePic{
+    border:3px solid dodgerblue;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.coachoption{
+    border:3px solid dodgerblue;
+    border-radius: 5px;
+    padding: 3px;
+}
+.coachinfo{
+    border:3px solid dodgerblue;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.currentPersonal{
+    border:3px solid dodgerblue;
+    border-radius: 5px;
+    padding: 3px;
+}
+.editor{
+    padding: 3px;
+}
+
+.comments{
+    width:100%;
+    background-color: #003b71;
+}
+
+.icongreen{
+    color: #006600;
+}
