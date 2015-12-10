@@ -6,9 +6,9 @@
  * Time: 20:14
  */
 
-$SQLhost = "160.153.60.168";
-$SQLuser = "admin_coach";
-$SQLpass = "proEcoach14!";
-$SQLdb = "coachaccount";
+$SQLhost = "127.0.0.1";
+$SQLuser = "user";
+$SQLpass = "password";
+$SQLdb = "database";
 
 ?>
